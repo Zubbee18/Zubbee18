@@ -10,7 +10,7 @@ I'm a passionate developer and tech enthusiast, actively building and learning i
 - 🌱 Currently exploring various technologies and frameworks
 - 💼 Open to exciting opportunities and collaborations
 - 🎯 Focus: Creating impactful solutions through code
-- 📅 Coding journey since: **2022**
+- 📅 Coding journey since: **2025**
 - 🐦 Twitter: [@Zubbee_](https://twitter.com/Zubbee_)
 
 ## 🛠️ Tech Stack & Tools
